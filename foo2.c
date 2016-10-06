@@ -1,4 +1,6 @@
 void foo2()
 {
-	puts("sayonara..is debug");
+	puts("sayonara..");
+	puts("DUBUG");
 }
+
