@@ -11,6 +11,7 @@ int main()
 	printf("Hello..!\n");
 	printf("[DEBUG] Bye bug..");
 	foo1();
+	printf("[DEBUG] sayonara bug..");
 	foo2();
 	return 0;
 }
