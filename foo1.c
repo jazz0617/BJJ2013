@@ -1,4 +1,4 @@
 void foo1()
 {
-	puts("Good bye..");
+	puts("Good bye..is not debug");
 }
